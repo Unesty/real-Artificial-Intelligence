@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 while 0==0 
 do
 done
