@@ -1,2 +1,2 @@
 #!/bin/sh
-./ai.sh
+./hs.sh
