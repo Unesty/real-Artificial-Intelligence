@@ -1,3 +1,3 @@
 #!/bin/sh
-./hs.sh
 ./links/*
+./hs.sh
